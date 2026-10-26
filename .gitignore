@@ -1,0 +1,13 @@
+# Dependencias y archivos de Cloudflare
+node_modules/
+.wrangler/
+.dev.vars
+
+# Fotos originales (las copias usadas por el sitio están en public/img/fotos)
+/*.jpeg
+/*.jpg
+/*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
